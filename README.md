@@ -35,7 +35,7 @@ A interface foi desenvolvida com a biblioteca [PySimpleGUI](https://pysimplegui.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.13.5
 - OpenCV
 - NumPy
 - Matplotlib
@@ -81,7 +81,7 @@ python main.py
 ## 🧠 Observações
 
 - Projeto individual e original
-- Testado em ambiente Windows com Python 3.11+
+- Testado em ambiente Windows com Python 3.13.5
 
 ## 👨‍🏫 Professores
 
@@ -90,4 +90,4 @@ python main.py
 
 ---
 
-Desenvolvido por [Seu Nome Aqui], 2025.
+Desenvolvido por Gabriel de Freitas Paixão, 2025.
