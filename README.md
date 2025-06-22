@@ -52,15 +52,15 @@ cd seu-repositorio
 
 2. Instale as dependências:
 ```bash
-pip install -r requirements.txt
+pip install opencv-python numpy matplotlib Pillow
 ```
 
-> Ou instale manualmente:
+3. Instale o PySimpleGUI mais recente usando o servidor privado oficial:
 ```bash
-pip install opencv-python numpy matplotlib PySimpleGUI Pillow
+python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
 ```
 
-3. Execute o sistema:
+4. Execute o sistema:
 ```bash
 python main.py
 ```
