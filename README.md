@@ -67,7 +67,7 @@ python main.py
 
 ## 🎥 Demonstração
 
-[🔗 Link para o vídeo demonstrativo no YouTube (não listado)](https://youtube.com/seu-link)
+[🔗 Link para o vídeo demonstrativo no YouTube (não listado)](https://www.youtube.com/watch?v=7wOEAYNdx_4)
 
 ## 📁 Estrutura de Pastas
 
